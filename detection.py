@@ -21,4 +21,3 @@ def detect_suspicious_processes():
 
 if __name__ == "__main__":
     detect_suspicious_processes()
-``
